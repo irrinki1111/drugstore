@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/drugstore/static/css/main.f9503c63.css",
-    "main.js": "/drugstore/static/js/main.9a69a952.js",
+    "main.css": "/drugstore/static/css/main.5b7ba35a.css",
+    "main.js": "/drugstore/static/js/main.9f0b17ab.js",
     "static/js/787.1f61f47d.chunk.js": "/drugstore/static/js/787.1f61f47d.chunk.js",
+    "static/media/ds.jpg": "/drugstore/static/media/ds.44339a9af9a02e5dfe47.jpg",
     "static/media/logo.svg": "/drugstore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/drugstore/index.html",
-    "main.f9503c63.css.map": "/drugstore/static/css/main.f9503c63.css.map",
-    "main.9a69a952.js.map": "/drugstore/static/js/main.9a69a952.js.map",
+    "main.5b7ba35a.css.map": "/drugstore/static/css/main.5b7ba35a.css.map",
+    "main.9f0b17ab.js.map": "/drugstore/static/js/main.9f0b17ab.js.map",
     "787.1f61f47d.chunk.js.map": "/drugstore/static/js/787.1f61f47d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9503c63.css",
-    "static/js/main.9a69a952.js"
+    "static/css/main.5b7ba35a.css",
+    "static/js/main.9f0b17ab.js"
   ]
 }
