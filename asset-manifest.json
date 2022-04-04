@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/drugstore/static/css/main.073c9b0a.css",
-    "main.js": "/drugstore/static/js/main.ce0f9f98.js",
+    "main.css": "/drugstore/static/css/main.f9503c63.css",
+    "main.js": "/drugstore/static/js/main.9a69a952.js",
     "static/js/787.1f61f47d.chunk.js": "/drugstore/static/js/787.1f61f47d.chunk.js",
     "static/media/logo.svg": "/drugstore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/drugstore/index.html",
-    "main.073c9b0a.css.map": "/drugstore/static/css/main.073c9b0a.css.map",
-    "main.ce0f9f98.js.map": "/drugstore/static/js/main.ce0f9f98.js.map",
+    "main.f9503c63.css.map": "/drugstore/static/css/main.f9503c63.css.map",
+    "main.9a69a952.js.map": "/drugstore/static/js/main.9a69a952.js.map",
     "787.1f61f47d.chunk.js.map": "/drugstore/static/js/787.1f61f47d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ce0f9f98.js"
+    "static/css/main.f9503c63.css",
+    "static/js/main.9a69a952.js"
   ]
 }
